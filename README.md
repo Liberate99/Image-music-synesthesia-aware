@@ -36,7 +36,7 @@ output：sigmoid
 
 训练进行了59个epoch后自动停止
 <body>
-    <img src="./1png"></img>
+    <img src="./1.png"></img>
 </body>
 
  
