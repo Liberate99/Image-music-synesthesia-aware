@@ -1,0 +1,29 @@
+[ExtensionApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO] The installation of the nbgrader extensions are now managed through the
+[ExtensionApp | INFO] `jupyter nbextension` and `jupyter serverextension` commands.
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO] To install and enable the nbextensions (assignment_list and create_assignment) run:
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO]     $ jupyter nbextension install --sys-prefix --py nbgrader
+[ExtensionApp | INFO]     $ jupyter nbextension enable --sys-prefix --py nbgrader
+[ExtensionApp | INFO]     
+[ExtensionApp | INFO] To install the server extension (assignment_list) run:
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO]     $ jupyter serverextension enable --sys-prefix --py nbgrader
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO] To install for all users, replace `--sys-prefix` by `--system`.
+[ExtensionApp | INFO] To install only for the current user replace `--sys-prefix` by `--user`.
+[ExtensionApp | INFO] 
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: E:\learn\music_audio\emotion\Image-music-synesthesia-aware
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=7853eaad96d0d082463df39c5b4d10bf9cbc3621cb8232f4
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/lab233/AppData/Roaming/jupyter/runtime/nbserver-14140-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=7853eaad96d0d082463df39c5b4d10bf9cbc3621cb8232f4
