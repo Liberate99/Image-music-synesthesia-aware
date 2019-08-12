@@ -452,3 +452,65 @@
 [NotebookApp | INFO] Saving file at /AutoExtractedFeature.ipynb
 [NotebookApp | INFO] Saving file at /AutoExtractedFeature.ipynb
 [NotebookApp | INFO] Saving file at /AutoExtractedFeature.ipynb
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 87960d9a-bae2-4003-9b6f-7859f2fda520
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 87960d9a-bae2-4003-9b6f-7859f2fda520
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Starting buffering for 87960d9a-bae2-4003-9b6f-7859f2fda520:c41da3eb4bdc484c8f0d79a297ed3fa2
+[NotebookApp | INFO] Kernel interrupted: 87960d9a-bae2-4003-9b6f-7859f2fda520
+[NotebookApp | INFO] Kernel interrupted: 87960d9a-bae2-4003-9b6f-7859f2fda520
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: E:\learn\music_audio\emotion\Image-music-synesthesia-aware
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=e42998ce4d70b9f2827bde03b74c1ce583ed677910c2e1e4
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/lab233/AppData/Roaming/jupyter/runtime/nbserver-16212-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=e42998ce4d70b9f2827bde03b74c1ce583ed677910c2e1e4
+[NotebookApp | WARNING] 404 GET /api/kernels/6d468bc8-41ab-427d-bea1-4f7fdc7331cb/channels?session_id=862f1fd477e748b281ec76ea308adaa8 (::1): Kernel does not exist: 6d468bc8-41ab-427d-bea1-4f7fdc7331cb
+[NotebookApp | WARNING] 404 GET /api/kernels/6d468bc8-41ab-427d-bea1-4f7fdc7331cb/channels?session_id=862f1fd477e748b281ec76ea308adaa8 (::1) 327.12ms referer=None
+[NotebookApp | WARNING] 404 GET /api/kernels/87960d9a-bae2-4003-9b6f-7859f2fda520/channels?session_id=c41da3eb4bdc484c8f0d79a297ed3fa2 (::1): Kernel does not exist: 87960d9a-bae2-4003-9b6f-7859f2fda520
+[NotebookApp | WARNING] 404 GET /api/kernels/87960d9a-bae2-4003-9b6f-7859f2fda520/channels?session_id=c41da3eb4bdc484c8f0d79a297ed3fa2 (::1) 326.13ms referer=None
+[NotebookApp | INFO] Kernel started: 8884f191-cc8f-40f8-90a7-2a5cb39896f7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8884f191-cc8f-40f8-90a7-2a5cb39896f7
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: E:\learn\music_audio\emotion\Image-music-synesthesia-aware
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=849ef60ccb8f4bd81db781cecd604342224b9f21f0369ee3
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/lab233/AppData/Roaming/jupyter/runtime/nbserver-3424-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=849ef60ccb8f4bd81db781cecd604342224b9f21f0369ee3
+[NotebookApp | INFO] Kernel started: a3366b8f-8a61-4b8c-98ea-566ce816e116
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a3366b8f-8a61-4b8c-98ea-566ce816e116
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a3366b8f-8a61-4b8c-98ea-566ce816e116
