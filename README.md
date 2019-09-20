@@ -1,8 +1,64 @@
 # Image-music-synesthesia-aware
 
-## 首先使用提取好的 共128维度特征进行训练，均方差（mse）达到0.068，并不是很理想，但可以接受。
+-- 深度学习部分
 
-## 最终改进
+## 示意图
+
+<img src="./imgs/framework.png"></img>
+
+从8个情感的维度来对音乐和图片进行描述
+
+<img src="./imgs/8vector.png"></img>
+
+## 数据
+
+- 已标定的：
+    + 每个音乐段用8个情感维度进行标注
+    + 每个图片  用8个情感维度进行标注
+    + 音乐和图片对 之间基于8个维度的相似度（皮尔逊系数）
+
+## 目标
+
+训练一个全连接网络 进行相似度的预测。
+
+## 度量
+
+均方差（mse）
+
+## stage 1 
+
+首先使用提取好的 共128维度特征进行训练，均方差（mse）达到0.068，并不是很理想。
+
+- 特征分析
+
+    + 128维度 = 64维度的图片特征 + 64维度的音乐特征
+
+    <img src="./imgs/stage1-feature.JPG"></img>
+
+## stage 2
+
+#### 特征提取
+
+- 初步规划：
+    + 512维特征 
+        每一个维度扩大四倍，最终效果有所改进，均方差达到0.05左右，但是
+
+
+- 图片特征提取： VGG-19     
+
+    ***K. Simonyan and A. Zisserman, “Very deep convolutional networks for large-scale image recognition,” arXiv preprint arXiv:1409.1556, 2014.***
+    
+    <img src="./imgs/vgg19.png"></img>
+
+- 音频特征提取： 
+
+    [SoundNet](https://github.com/eborboihuc/SoundNet-tensorflow)
+
+    <img src="./imgs/soundnet.png"></img>
+
+
+
+## 最终
 
 图片特征：vgg19  512x1
 音频特征：MFCC：400x1 + Chroma Frequencies：112x1
@@ -36,9 +92,15 @@ output：sigmoid
 
 训练进行了59个epoch后自动停止
 <body>
-    <img src="./1.png"></img>
+    <img src="./imgs/1.png"></img>
 </body>
+
+
+## 小练习
+
+使用 VGG-16 进行图片特征提取，并使用 PCA 降维为一维向量。
 
  
  
  
+

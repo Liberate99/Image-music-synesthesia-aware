@@ -514,3 +514,151 @@
 [NotebookApp | INFO] Kernel started: a3366b8f-8a61-4b8c-98ea-566ce816e116
 [NotebookApp | INFO] Adapting to protocol v5.1 for kernel a3366b8f-8a61-4b8c-98ea-566ce816e116
 [NotebookApp | INFO] Adapting to protocol v5.1 for kernel a3366b8f-8a61-4b8c-98ea-566ce816e116
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Kernel started: 68a4abf2-5aaa-4b96-95c4-7e621eefe174
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 68a4abf2-5aaa-4b96-95c4-7e621eefe174
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Kernel interrupted: a3366b8f-8a61-4b8c-98ea-566ce816e116
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Kernel interrupted: a3366b8f-8a61-4b8c-98ea-566ce816e116
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
