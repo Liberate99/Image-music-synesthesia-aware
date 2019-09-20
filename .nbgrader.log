@@ -662,3 +662,32 @@
 [NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
 [NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
 [NotebookApp | INFO] Saving file at /fit_Euclidean_Distance.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: E:\learn\music_audio\emotion\Image-music-synesthesia-aware
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=bd9a243af405cd8a950fad0850e5618bd5b59547d4b90e28
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/lab233/AppData/Roaming/jupyter/runtime/nbserver-9900-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=bd9a243af405cd8a950fad0850e5618bd5b59547d4b90e28
+[NotebookApp | INFO] Kernel started: effc0c20-96d3-423e-90ab-3708d42ef78c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel effc0c20-96d3-423e-90ab-3708d42ef78c
+[NotebookApp | INFO] Kernel started: 055a5d3f-a648-4567-97f6-50e26bad1c39
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 055a5d3f-a648-4567-97f6-50e26bad1c39
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel effc0c20-96d3-423e-90ab-3708d42ef78c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 055a5d3f-a648-4567-97f6-50e26bad1c39
+[NotebookApp | INFO] Saving file at /AutoExtractedFeature.ipynb
+[NotebookApp | INFO] Saving file at /AutoExtractedFeature.ipynb
+[NotebookApp | INFO] Saving file at /AutoExtractedFeature.ipynb
+[NotebookApp | INFO] Saving file at /AutoExtractedFeature.ipynb
+[NotebookApp | INFO] Saving file at /AutoExtractedFeature.ipynb
+[NotebookApp | INFO] Saving file at /AutoExtractedFeature.ipynb
+[NotebookApp | INFO] Saving file at /AutoExtractedFeature.ipynb
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: effc0c20-96d3-423e-90ab-3708d42ef78c
+[NotebookApp | INFO] Kernel shutdown: 055a5d3f-a648-4567-97f6-50e26bad1c39

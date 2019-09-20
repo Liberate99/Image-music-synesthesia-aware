@@ -68,22 +68,22 @@
 loss function：mean square error
 optimizer：adam
 
-Layer1：全连接 1024维度
-Layer2：全连接 1024维度
-Layer3：全连接 512维度
-Layer4：全连接 512维度
-Layer5：全连接 256维度
-Layer6：全连接 256维度
-Layer7：全连接 128维度
-Layer8：全连接 128维度
-Layer9：全连接 64维度
-Layer10：全连接 64维度
-Layer11：全连接 32维度
-Layer12：全连接 16维度
-Layer13：全连接 16维度
-Layer14：全连接 8维度
-Layer15：全连接 8维度
-output：sigmoid
+Layer1：全连接 1024维度     
+Layer2：全连接 1024维度     
+Layer3：全连接 512维度      
+Layer4：全连接 512维度      
+Layer5：全连接 256维度      
+Layer6：全连接 256维度      
+Layer7：全连接 128维度      
+Layer8：全连接 128维度      
+Layer9：全连接 64维度       
+Layer10：全连接 64维度      
+Layer11：全连接 32维度      
+Layer12：全连接 16维度      
+Layer13：全连接 16维度      
+Layer14：全连接 8维度       
+Layer15：全连接 8维度       
+output：sigmoid     
 
 
 当均方差不再下降时，学习率降低 *0.2
